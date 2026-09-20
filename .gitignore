@@ -1,0 +1,43 @@
+﻿# Compiled class file
+*.class
+*.log
+*.jar
+*.war
+*.zip
+*.tar.gz
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+out/
+
+# IDE - Eclipse
+.project
+.classpath
+.settings/
+bin/
+
+# IDE - VS Code
+.vscode/
+
+# Maven
+target/
+pom.xml.tag
+release.properties
+dependency-reduced-pom.xml
+
+# Gradle
+.gradle/
+build/
+
+# Spring
+HELP.md
+.mvn/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
